@@ -1,4 +1,4 @@
-For Educational Purpose
+# For Educational Purpose
 This Python script performs a multi-threaded SSH login audit using Paramiko, testing multiple passwords from a file to identify weak credentials on a target system. It demonstrates SSH connection handling, threading, and basic security testing techniques. Designed for ethical use in authorized penetration-testing environments only.
 
 # ssh-brute-force
